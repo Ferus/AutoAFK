@@ -43,7 +43,7 @@ kick:
     command-as-console: true
     # List of commands that are executed when player is supposed to be kicked (without "/")
     # Variable %player% is supported
-    commands: 
+    commands:
       - 'kick %player% You were kicked for being AFK.'
       - 'say %player% was kicked for AFK!'
 # Options for tablist prefix
@@ -110,4 +110,4 @@ listeners:
     move: false
     xp: false
     commands: true
-    
+    fishing: true    
