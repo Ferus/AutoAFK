@@ -3,7 +3,7 @@ version: 2.2
 description: Very simple plugin that implements AFK mode!
 author: Prunt
 website: https://www.spigotmc.org/resources/autoafk.11296/
-main: me.prunt.autoafk.Main
+main: me.prunt.autoafk.AutoAFK
 softdepend: [TitleAPI, ParticleAPI]
 
 commands:
